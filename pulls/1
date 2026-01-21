@@ -1,0 +1,8 @@
+This PR does the following:
+
+- Creates a branch `improve-readme` and synchronizes it with the upstream repository `markdoc/markdoc` main branch.
+- Updates README.md to clearly indicate this repository is a fork and includes a link to the original project.
+
+No functional code changes are included. This is a documentation/sync PR to keep the fork up-to-date and clarify repository origin.
+
+If you want additional changes (CI, code modifications), please reply with specific instructions.
